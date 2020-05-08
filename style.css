@@ -1,0 +1,359 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+div.one,div.oneo{
+ background-color:rgb(242,243,244);
+}
+@font-face {
+  font-family:old-style;
+  src: url(old.TTF);
+}
+div.two{
+              background-color:rgb(54,107,197);
+              text-align:center;
+              color:white;
+              }
+              
+p.blueone{
+          background-color:rgb(54,107,197);
+}
+div.four{
+               background-color:rgb(54,107,197);    
+               position:sticky;
+               top:0;
+               left:90px;
+               text-align:center;
+               color:white;
+               width:800px;
+               height:30px;
+               }
+               
+button.donate{
+              border:1px solid green;
+              background-color:white;
+              color:darkgreen;
+              height:40px;   
+              padding:5px;
+           
+                
+                
+              }
+button.btn{
+           
+           background-color:white;
+           color:black;
+           border:none;
+          }
+button.btn, button.btn1 ,button.btn4:focus{
+                 background-color:rgb(54,107,197);
+                 margin:3px;
+                 border-radius:2em;
+                 padding:3px;
+                 shadow:none;
+                 color:white;
+                 
+                 }
+                 
+                 
+                 button.btn, button.btn1 ,button.btn4:hover{
+                 background-color:rgb(54,107,197);
+                 margin:3px;
+                 border-radius:2em;
+                 padding:3px;
+                 shadow:none;
+                 color:white;
+                 
+                 }
+                 
+button.btn1{
+            background-color:rgb(242,243,244);
+            color:black;
+            border:none;
+            
+            
+            }
+            
+      h1.blue{
+              color:blue;
+              font-weight:bold;
+              text-align:center;
+              display:inline-block;
+              font-family:Times;
+              margin-right:-4px;
+             }
+      
+           
+        
+      h1.green{
+               font-weight:bold;
+               color:green;
+               font-weight:bold;
+               text-align:center;
+               display:inline-block;
+               font-family:Times;
+               }
+div.five{
+           text-align:center;
+      
+           }
+           
+p.right{
+        
+        margin:15px;
+        font-family:times;
+        display:inline-block;
+        text-align:center;
+        width:800px;
+        text-align:justify;
+        font-size:1em;
+         }
+         
+ div.all{
+     
+       width:980px;
+       background-color:rgb(242,243,244)
+       }
+
+ 
+ p.five{
+ text-align:center;
+ background-color:rgb(54,107,197);
+ font-family:old-style;
+ font-size:4em;
+ color:white;
+ }
+ 
+ p.six{
+ text-align:center;
+ background-color:rgb(54,107,197);
+ color:white;
+ font-family:Times;
+ font-size:2em;
+ display:inline-block;
+ font-weight:bold;
+ }
+ p.seven{
+ text-align:center;
+ background-color:rgb(54,107,197);
+ color:rgb(18,227,18);
+ font-family:Times;
+ font-size:3em;
+ display:inline-block;
+ font-weight:bold;
+ }
+ 
+ div.color{
+ position: fixed;
+ top: 0;
+ background-color:rgb(242,243,244);
+ }
+ 
+ div.seven {
+           background-color:rgb(242,243,244);
+           
+ 
+ }
+ 
+            
+.greeen{
+         color:rgb(18,227,18);
+}
+
+ .sky{
+      color:skyblue 
+ }
+ 
+ .rew{
+     color:rgb(54,107,197);
+     font-family:times;
+     font-weight:bold;
+ }
+ 
+ .cew{
+      color:green;
+      font-weight:bold;
+ 
+ }
+ div.eight{
+ margin:60px;
+ 
+ 
+ }
+ 
+ div.nine{
+        
+        margin:60px;
+        width:300px;
+        background-color:rgb(242,243,244);
+       
+ }
+ p.ten{
+        display:inline-block;
+        color:rgb(54,107,197);
+        font-weight:bold;
+       padding:0px 0px 0px 50px;
+ }
+ 
+
+ 
+ img.imgss{
+          width:340px;
+         
+          margin:5px 5px;
+ 
+ }
+ 
+ div.twelve{
+            background-color:rgb(43,42,36);
+            
+            color:rgb(242,243,244);
+          padding:0px 0px 0px 50px
+ 
+ }
+ p.linel{
+
+      display:inline-block;
+      
+ }
+ 
+ div.thirteen{
+          background-color:rgb(54,107,197);
+          color:white;
+          display:flex;
+          align-items:center;
+}
+.linelr{
+        color:rgb(242,243,244);
+        font-family:times;
+        font-weight:bold;
+}
+.reww{
+     margin:10px;
+}
+.topup{
+       position:fixed;
+       right:10px;
+       bottom:50px;
+
+
+}
+button.btn4{
+           
+           background-color:rgb(242,243,244);
+           color:black;
+           border:none;
+           border-radius:2em;
+          }
+          
+          
+          
+          
+          
+          
+          
+          }
+          
+         
+         .big{
+         width:100%;
+         overflow:auto;
+         margin:50px;
+         
+         }
+         
+         
+         
+         .pio{ 
+         margin:10px;
+         width:10em;
+         height:50px;
+         background-color:rgb(242,243,244);
+         }
+         
+         p.piotwo{
+         display:inline-block;
+         color:rgb(54,107,197);
+         font-weight:bold;
+         padding-left:30px;
+         }
+          
+          
+          
+          div.fourf{
+          background-color: rgb(54,107,197);
+          width:100%;
+          }
+          
+          .fivef{
+          font-family:old-style;
+          font-size:2.2em;
+          color:white;
+        
+          }
+          
+          .sixs{
+          color:white;
+          font-family:Times;
+          font-size:1.2em;
+          font-weight:bold;
+     
+          }
+   
+          
+          
+          div.too{
+          display:inline-block;
+          
+          margin:2em 2em;
+          
+          }
+          
+          
+          
+          .block {
+                 display:inline-block;
+                 }
+                 
+                 
+                 
+   .left {
+          margin-left:18px;        
+           }
+           
+           
+     #main{
+           background-color: rgb(0,0,0);
+           color: rgb(255,121,181);
+           font-size:40px;
+           font-weight:Bold;
+           font-family:sans-serif;
+           }
+           
+           
+           
+           
+       .cool{
+            background-color:rgb(242,243,244);
+           }
+           
+           
+       .navn{
+             background-color:rgb(54,107,197);
+            }
+            
+            
+            
+            .pad{
+                padding:10px;
+         
+            
+                }
+                
+              .net{
+                   text-align:center;
+                 }
